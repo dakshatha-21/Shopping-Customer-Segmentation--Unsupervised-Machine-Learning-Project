@@ -1,5 +1,7 @@
 🛍️ Customer Segmentation using K-Means Clustering
+
 📌 Project Overview
+
 This project aims to help the marketing team understand and segment target customers based on their Annual Income, Age, and Mall Spending Score. 
 
 By identifying distinct customer groups, the business can plan targeted marketing strategies to increase engagement and sales.
